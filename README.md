@@ -25,9 +25,9 @@ Your folder structure should look like this:
 - Open **`model_trainingV2.py`**.  
 - Find the following line:
   ```python
-  path = "C://train"
+  path = "C:/train"
 
 ##  Replace it with the actual path to your train folder. Example:
 
-path = "D://Projects/Dataset/train"
+path = "D:/Projects/Dataset/train"
 
