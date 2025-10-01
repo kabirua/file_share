@@ -8,7 +8,7 @@ Follow the steps below to set up and run the model:
 
 
 ## 2. Download the Code
-- Download the file **`model_trainingV2.py`** to your local computer.  
+- Download the file **`trainResNetV1.py`** to your local computer.  
 
 ## 3. Download the Dataset
 - The dataset consists of two folders:  (I zipped the file, name train.zip, download and unzip it)
