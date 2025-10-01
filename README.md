@@ -14,7 +14,7 @@ Follow the steps below to set up and run the model:
 - The dataset consists of two folders:  (I zipped the file, name train.zip, download and unzip it)
   - **`healthy`**  
   - **`fusarium`**  
-- Place these two folders inside a new folder named **`train`** on your computer.  
+- Place these two folders inside a new folder named **`train`** on your computer. (If you download train.zip, unzipping it will already create this structure, where the train folder contains the two subfolders.)
 
 Your folder structure should look like this:
 
