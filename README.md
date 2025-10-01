@@ -11,7 +11,7 @@ Follow the steps below to set up and run the model:
 - Download the file **`model_trainingV2.py`** to your local computer.  
 
 ## 3. Download the Dataset
-- The dataset consists of two folders:  
+- The dataset consists of two folders:  (I zipped the file, name train.zip, download and unzip it)
   - **`healthy`**  
   - **`fusarium`**  
 - Place these two folders inside a new folder named **`train`** on your computer.  
