@@ -18,13 +18,5 @@ Follow the steps below to set up and run the model:
 
 Your folder structure should look like this:
 
-train/
-│── healthy/
-│ ├── image1.png
-│ ├── image2.png
-│ └── ...
-│
-└── fusarium/
-├── image1.png
-├── image2.png
-└── ...
+<img width="223" height="319" alt="image" src="https://github.com/user-attachments/assets/84196890-4a59-4222-901f-440379fbaf20" />
+
