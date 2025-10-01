@@ -20,3 +20,14 @@ Your folder structure should look like this:
 
 <img width="223" height="319" alt="image" src="https://github.com/user-attachments/assets/84196890-4a59-4222-901f-440379fbaf20" />
 
+
+## 4. Update Dataset Path in Code
+- Open **`model_trainingV2.py`**.  
+- Find the following line:
+  ```python
+  path = "C://train"
+
+##  Replace it with the actual path to your train folder. Example:
+
+path = "D://Projects/Dataset/train"
+
